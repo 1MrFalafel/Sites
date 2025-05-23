@@ -1,2 +1,0 @@
-# Sites
-Falafel Public Sites
